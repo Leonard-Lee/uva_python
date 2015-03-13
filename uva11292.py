@@ -11,11 +11,6 @@ for i in range(0, d_num):
 for i in range(0, k_num):
 	knights.append(input('the heights of the knights: '))
 
-# for i in range(len(dragons)):
-# 	print dragons[i]
-# for i in range(len(knights)):
-# 	print knights[i]
-
 # Sort
 dragons.sort()
 knights.sort()
